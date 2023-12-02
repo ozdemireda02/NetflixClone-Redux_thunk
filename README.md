@@ -1,9 +1,17 @@
-# React + Vite
+<h1> NETFLİX CLONE - REDUX THUNK </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+API: https://developer.themoviedb.org/reference/intro/getting-started
 
-Currently, two official plugins are available:
+<h2> Kullanılan Kaynaklar </h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# NetflixClone-Redux_thunk
+react-router-dom
+axios
+bootstrap
+@splidejs/react-splide
+redux
+react-redux
+redux-thunk
+
+<h2> Çalışır Halinin Ekran Kaydı </h2>
+
+![](NetflixClone-Redux_thunk.gif)

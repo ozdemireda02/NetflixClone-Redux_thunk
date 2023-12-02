@@ -12,6 +12,7 @@ const App = () => {
     <Route path="/" element={<MainPage/>}  />
     <Route path="/detay/:id"  element={<DetailPage/>}  />
     <Route path="/other/:id"  element={<OtherPage/>}  />
+    <Route path="*" element={<h1>Sonuç BUlunamadı ...</h1>} />
   </Routes>
   </BrowserRouter>
   )
